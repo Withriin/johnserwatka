@@ -1,0 +1,20 @@
+body {
+   background-image: url("./images/background2.jpg") ; 
+}
+.navbar{
+    color: whitesmoke;
+}
+.logo{
+    align-content: left;
+}
+.navbarlinks{
+    align-content: right;
+}
+.banner{
+    text-align: center;
+    color: whitesmoke;
+}
+.rps{
+    text-align: center;
+    color: whitesmoke;
+}
