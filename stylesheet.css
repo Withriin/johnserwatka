@@ -1,5 +1,5 @@
 body {
-   background-image: url("./images/background2.jpg") ; 
+   background-image: url("./images/indexbackground.jpg") ; 
 }
 .navbar{
     color: whitesmoke;
@@ -17,4 +17,5 @@ body {
 .rps{
     text-align: center;
     color: whitesmoke;
+    background-color: rgba(169,169,169,.25) ;
 }
