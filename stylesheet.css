@@ -1,5 +1,8 @@
-body {
+#index {
    background-image: url("./images/indexbackground.jpg") ; 
+}
+#about{
+    background-image: url("./images/aboutbackground.jpg");
 }
 .navbar{
     color: whitesmoke;
