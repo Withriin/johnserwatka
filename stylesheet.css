@@ -1,10 +1,5 @@
-#index {
-   background-image: url("./images/background.jpg") ; 
-   background-size: cover;
-   background-repeat: no-repeat;
-}
-#about{
-    background-image: url("./images/background.jpg");
+body{
+    background-image: url("./images/background.jpg") ; 
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -33,6 +28,13 @@ img{
 .meimage{
     width: 300px;
     height: auto;
+}
+.aboutmetext{
+    text-align: center;
+    color: whitesmoke;
+}
+footer{
+    color: whitesmoke;
 }
 .footerexternallinks{
     align-content: right;
